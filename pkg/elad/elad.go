@@ -1,5 +1,5 @@
 package elad
 import "fmt"
-func hello() {
-    fmt.Println("hello world2")
+func Hello() {
+    fmt.Println("hello worl42")
 }
